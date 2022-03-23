@@ -83,5 +83,7 @@ and the features are different year on year depending on which teams were presen
 Accuracy on training data =  1.0
 Accuracy on test data =  0.8333333333333334
 
+Since more than 2000 variables of qualifying times were used, plotting their usefulness lead to over-plotting, therefore we decided to summarise based on from which circuit did the variables come, the results are in the bar chart below.
+These circuits are rarely missing from the F1 calendar across the years and seasons, therefore we believe that the more consistent the data is year to year the more the model prefers it since its more consistent.
 
-![Decision tree of the normal decision tree classifier visualised](images/classification_tree_viz.png)
+![](images/circuits_with_most_important_features_for_classification_model.png)
