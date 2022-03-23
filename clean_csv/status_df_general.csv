@@ -1,0 +1,138 @@
+statusId,status,status_general
+1,Finished,Finished
+2,Disqualified,Disqualified
+3,Accident,Accident
+4,Collision,Accident
+5,Engine,Mechanical
+6,Gearbox,Mechanical
+7,Transmission,Mechanical
+8,Clutch,Mechanical
+9,Hydraulics,Mechanical
+10,Electrical,Electical
+11,+1 Lap,Overlapped
+12,+2 Laps,Overlapped
+13,+3 Laps,Overlapped
+14,+4 Laps,Overlapped
+15,+5 Laps,Overlapped
+16,+6 Laps,Overlapped
+17,+7 Laps,Overlapped
+18,+8 Laps,Overlapped
+19,+9 Laps,Overlapped
+20,Spun off,Mechanical
+21,Radiator,Mechanical
+22,Suspension,Mechanical
+23,Brakes,Mechanical
+24,Differential,Mechanical
+25,Overheating,Mechanical
+26,Mechanical,Mechanical
+27,Tyre,Mechanical
+28,Driver Seat,Mechanical
+29,Puncture,Mechanical
+30,Driveshaft,Mechanical
+31,Retired,Human
+32,Fuel pressure,Mechanical
+33,Front wing,Mechanical
+34,Water pressure,Mechanical
+35,Refuelling,Mechanical
+36,Wheel,Mechanical
+37,Throttle,Mechanical
+38,Steering,Mechanical
+39,Technical,Mechanical
+40,Electronics,Mechanical
+41,Broken wing,Mechanical
+42,Heat shield fire,Mechanical
+43,Exhaust,Mechanical
+44,Oil leak,Mechanical
+45,+11 Laps,Overlapped
+46,Wheel rim,Mechanical
+47,Water leak,Mechanical
+48,Fuel pump,Mechanical
+49,Track rod,Mechanical
+50,+17 Laps,Overlapped
+51,Oil pressure,Mechanical
+128,+42 Laps,Overlapped
+53,+13 Laps,Overlapped
+54,Withdrew,Rules
+55,+12 Laps,Overlapped
+56,Engine fire,Mechanical
+129,Engine misfire,Mechanical
+58,+26 Laps,Overlapped
+59,Tyre puncture,Mechanical
+60,Out of fuel,Mechanical
+61,Wheel nut,Mechanical
+62,Not classified,Rules
+63,Pneumatics,Mechanical
+64,Handling,Mechanical
+65,Rear wing,Mechanical
+66,Fire,Mechanical
+67,Wheel bearing,Mechanical
+68,Physical,Mechanical
+69,Fuel system,Mechanical
+70,Oil line,Rules
+71,Fuel rig,Mechanical
+72,Launch control,Mechanical
+73,Injured,Human
+74,Fuel,Mechanical
+75,Power loss,Mechanical
+76,Vibrations,Mechanical
+77,107% Rule,Rules
+78,Safety,Rules
+79,Drivetrain,Mechanical
+80,Ignition,Mechanical
+81,Did not qualify,Rules
+82,Injury,Human
+83,Chassis,Mechanical
+84,Battery,Mechanical
+85,Stalled,Mechanical
+86,Halfshaft,Mechanical
+87,Crankshaft,Mechanical
+88,+10 Laps,Overlapped
+89,Safety concerns,Accident
+90,Not restarted,Rules
+91,Alternator,Mechanical
+92,Underweight,Rules
+93,Safety belt,Mechanical
+94,Oil pump,Mechanical
+95,Fuel leak,Mechanical
+96,Excluded,Rules
+97,Did not prequalify,Rules
+98,Injection,Mechanical
+99,Distributor,Mechanical
+100,Driver unwell,Human
+101,Turbo,Mechanical
+102,CV joint,Mechanical
+103,Water pump,Mechanical
+104,Fatal accident,Human
+105,Spark plugs,Mechanical
+106,Fuel pipe,Mechanical
+107,Eye injury,Mechanical
+108,Oil pipe,Mechanical
+109,Axle,Mechanical
+110,Water pipe,Mechanical
+111,+14 Laps,Overlapped
+112,+15 Laps,Overlapped
+113,+25 Laps,Overlapped
+114,+18 Laps,Overlapped
+115,+22 Laps,Overlapped
+116,+16 Laps,Overlapped
+117,+24 Laps,Overlapped
+118,+29 Laps,Overlapped
+119,+23 Laps,Overlapped
+120,+21 Laps,Overlapped
+121,Magneto,Mechanical
+122,+44 Laps,Overlapped
+123,+30 Laps,Overlapped
+124,+19 Laps,Overlapped
+125,+46 Laps,Overlapped
+126,Supercharger,Mechanical
+127,+20 Laps,Overlapped
+130,Collision damage,Accident
+131,Power Unit,Mechanical
+132,ERS,Mechanical
+133,+49 Laps,Overlapped
+134,+38 Laps,Overlapped
+135,Brake duct,Mechanical
+136,Seat,Mechanical
+137,Damage,Accident
+138,Debris,Mechanical
+139,Illness,Human
