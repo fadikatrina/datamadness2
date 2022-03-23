@@ -35,7 +35,7 @@ The data is not fully complete, for example, qualifying results are only availab
 
 ### 4. Did you have to make decisions that affect the analysis?
 
-We have to find and drop some NaN rows/columns in some dataframes, which limits the input for our analysis - see the importer-and-visualizations notebook for details on our decisions.
+We have to find and drop some NaN rows/columns in some dataframes, which limits the input for our analysis - see the visualizations notebook for details on our decisions.
 
 ### 5. What are the limitations of your analysis and your conclusions?
 
