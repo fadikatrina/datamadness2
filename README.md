@@ -31,7 +31,7 @@ The data source was carefully checked, however, there exist some errors, for exa
 
 ### 3. Are there considerations about the analysis you made?
 
-The data is not fully complete, for example, qualifying results are only fully available from the year 2003. Similarly, lap time data is supported from the 1996 season onwards and pit stop data is available from the 2012 season onwards. Therefore, our visualizations can only aggregate data and draw conclusions from those years.
+The data is not fully complete, for example, qualifying results are only available from the year 1994 and is fully available from season 2003. Similarly, lap time data is supported from the 1996 season onwards and pit stop data is available from the 2012 season onwards. Therefore, our visualizations can only aggregate data and draw conclusions from those years.
 
 ### 4. Did you have to make decisions that affect the analysis?
 
