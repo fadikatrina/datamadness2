@@ -19,21 +19,6 @@ We have created a short 2-minute video, highlighting our main findings. Here is 
 
 [![THUMBNAIL](https://img.youtube.com/vi/d8j3hbHltj8/0.jpg)](https://www.youtube.com/watch?v=d8j3hbHltj8)
 
-## Visualization
-In `visualization.ipynb`, you will find an exploration of the development of the F1 sport over the years and/or across different circuits.
-(i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year)
-
-![heatmap_pitstop](images/Distribution_of_pitstops.png)
-
-The relationship between variables such as driver age, win counts, qualifying position, finishing position. 
-![Wincounts](images/Win_counts_per_age.jpg)
-It seems that drivers have certain prime time in their carreer.
-
-Moreover, qualifying seems to be a good predictor of the race outcome:
-![Qualifying position versus finisihng position](images/qualifying_finishing.png)
-
-The `heatmaps.zip` file contains the evolution of the reasons for (not) finishing a race from 1950 to 2021.
-
 ## Ethical consideration
 ### 1. How did you get the data (legally...)?
 
@@ -63,6 +48,21 @@ The stakeholders of the project are teammates: Gabriel, Fadi, Thao.
 ### 7. Who can benefit from this project, who can be harmed, who is excluded, etc.
 
 The people who can benefit from this project are firstly the teammates who will get graded. Secondly, the output of the project is relevant for F1 fans who are interested in the development of this sport and the factors that influence race outcomes. The project is mostly for recreational purposes and uses only publicly available data, thus, it is safe to say that no one can be harmed from this project.
+
+## Visualization
+In `visualization.ipynb`, you will find an exploration of the development of the F1 sport over the years and/or across different circuits.
+(i.e., the heatmap distribution of the time pitstops happen in the race, how number of pitstops changes over the year)
+
+![heatmap_pitstop](images/Distribution_of_pitstops.png)
+
+The relationship between variables such as driver age, win counts, qualifying position, finishing position. 
+![Wincounts](images/Win_counts_per_age.jpg)
+It seems that drivers have certain prime time in their carreer.
+
+Moreover, qualifying seems to be a good predictor of the race outcome:
+![Qualifying position versus finisihng position](images/qualifying_finishing.png)
+
+The `heatmaps.zip` file contains the evolution of the reasons for (not) finishing a race from 1950 to 2021.
 
 
 ## Classification
